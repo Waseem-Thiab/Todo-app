@@ -17,13 +17,15 @@ Tap on any task to open an edit modal,
 Update the title or description and save changes immediately.
 
 # 🛠️ Built With
-Flutter — for beautiful UI and fast development.
+Flutter (3.19.3) — for beautiful UI and fast development.
 
-Cubit (Bloc library) — for efficient state management.
+Language: Dart (3.3.1)
 
-Shared Preferences — to save tasks temporarily on the device.
+State management: Cubit (Bloc library) — for efficient state management.
 
-UUID — to generate unique IDs for each task.
+Local storage: Shared Preferences — to save tasks temporarily on the device.
+
+UUID package: to generate unique IDs for each task.
 
 # Screenshots 
 
